@@ -6,7 +6,7 @@
   <img height="200px" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isagarci4&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
-  ### Technologies >>>
+  ### Technologies:
   
   <div style="display: inline_block"><br>
   <img align="center" alt="Isa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -22,7 +22,7 @@
   
   ##
   
-  ### Contact >>>
+  ### Contact:
   
  <div> 
   <a href="https://www.instagram.com/isadoragarci_a/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
