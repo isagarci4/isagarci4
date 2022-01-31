@@ -6,6 +6,8 @@
   <img height="200px" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isagarci4&layout=compact&langs_count=7&theme=nightowl"/>
 </div>
   
+  ##
+  
   ### Technologies:
   
   <div style="display: inline_block"><br>
@@ -30,6 +32,8 @@
   <a href="https://www.linkedin.com/in/isadora-garcia-45873a203/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
 </div>
+  
+  ##
   
 ![Snake animation](https://github.com/isagarci4/isagarci4/blob/output/github-contribution-grid-snake.svg)
   
