@@ -4,8 +4,8 @@
 [![Gmail Badge](https://img.shields.io/badge/-isadoragarciaalmeidasilva7450@gmail.com-776894?style=flat-square&logo=Gmail&logoColor=white&link=mailto:isadoragarciaalmeidasilva7450@gmail.com)](mailto:isadoragarciaalmeidasilva7450@gmail.com)
 
 <div>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/?username=isagarci4&show_icons=true&include_all_commits=true&theme=dracula&hide_border=true&hide=issues,contribs&bg_color=00000000""/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isagarci4&layout=compact&langs_count=7&theme=dracula&hide_border=true&bg_color=00000000"/>
+<img loading="lazy" height="153em" src="https://github-readme-stats.vercel.app/api/?username=isagarci4&show_icons=true&include_all_commits=true&theme=dracula&hide_border=true&hide=issues,contribs&bg_color=00000000""/>
+<img loading="lazy" height="153em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isagarci4&layout=compact&langs_count=7&theme=dracula&hide_border=true&bg_color=00000000"/>
 <img loading="lazy" height="153em" src="http://github-readme-streak-stats.herokuapp.com/?user=isagarci4&theme=dracula&hide_border=true&background=FFFFFF00">
 </div>
   
